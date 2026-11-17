@@ -10,3 +10,4 @@ models/*
 *.onnx
 _review/
 *.ts
+cvat.zip
