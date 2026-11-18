@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: quanghunh
 - Repo bài nộp (URL): K5-L23-DAY08-2A202603113-HuynhNhatQuang-AIPrelabel,
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): a3e1919bb64466ee12defbd290983b5d7f97c439
 - Máy: Linux, RAM dưới 8 GB, không dùng GPU trên máy (model chạy trên Google Colab T4)
 - CVAT (Docker): v2.81.0
 
